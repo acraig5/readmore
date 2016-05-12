@@ -6,7 +6,9 @@ article{
     background: cornflowerblue;
     width:33%;
 }
-
+img{
+  width:100%;
+}
 
 /********************
 MEDIA QUERIES
